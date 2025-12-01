@@ -3,6 +3,20 @@ AI powered drugs reviews monitoring with NLP techniques. A project for beginners
 
 This project analyzes pharmaceutical drug reviews to extract meaningful insights about medication effectiveness, side effects, and patient experiences. Using advanced NLP techniques and topic modeling, we uncover patterns in patient feedback that can help healthcare professionals, researchers, and patients make more informed decisions.
 
+## 📁 Project Structure
+- `data/` - Data files (add your CSV files here)
+- `notebooks/` - Jupyter notebooks for analysis
+- `src/` - Python source code
+- `output/` - Generated visualizations and results
+
+## 🚀 Installation
+1. Clone repository: `git clone https://github.com/yourusername/drug-review-project.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Download data from [[Kaggle](link)](https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018) and place in `data` folder
+
+## 📊 Usage
+See notebooks for analysis examples.
+
 🛠️ Technical Approach
 
 ----------->Data Processing<------------------
